@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.3aa56686.css",
-    "main.js": "./static/js/main.1948849f.js",
+    "main.js": "./static/js/main.4b5e18ed.js",
     "static/media/pexels-lina.jpg": "./static/media/pexels-lina.0c0b658cc8f1371096a3.jpg",
     "static/media/Presentacion2.png": "./static/media/Presentacion2.1fea72aebc9682b9dcdd.png",
     "static/media/pexels-lina-kivaka.jpg": "./static/media/pexels-lina-kivaka.485a5e5610c5c7400067.jpg",
@@ -9,10 +9,10 @@
     "static/media/LetterKidsDemo.ttf": "./static/media/LetterKidsDemo.4f3144d58e168d38ae1c.ttf",
     "index.html": "./index.html",
     "main.3aa56686.css.map": "./static/css/main.3aa56686.css.map",
-    "main.1948849f.js.map": "./static/js/main.1948849f.js.map"
+    "main.4b5e18ed.js.map": "./static/js/main.4b5e18ed.js.map"
   },
   "entrypoints": [
     "static/css/main.3aa56686.css",
-    "static/js/main.1948849f.js"
+    "static/js/main.4b5e18ed.js"
   ]
 }
