@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/material-kit-react/static/css/main.d89adc96.css",
+    "main.js": "/material-kit-react/static/js/main.5e6dcd39.js",
+    "static/media/pexels-lina.jpg": "/material-kit-react/static/media/pexels-lina.0c0b658cc8f1371096a3.jpg",
+    "static/media/Presentacion2.png": "/material-kit-react/static/media/Presentacion2.1fea72aebc9682b9dcdd.png",
+    "static/media/pexels-lina-kivaka.jpg": "/material-kit-react/static/media/pexels-lina-kivaka.485a5e5610c5c7400067.jpg",
+    "static/media/waves-white.svg": "/material-kit-react/static/media/waves-white.dcb2ce8579b019d0f73a64c138dae945.svg",
+    "static/media/LetterKidsDemo.ttf": "/material-kit-react/static/media/LetterKidsDemo.4f3144d58e168d38ae1c.ttf",
+    "index.html": "/material-kit-react/index.html",
+    "main.d89adc96.css.map": "/material-kit-react/static/css/main.d89adc96.css.map",
+    "main.5e6dcd39.js.map": "/material-kit-react/static/js/main.5e6dcd39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d89adc96.css",
+    "static/js/main.5e6dcd39.js"
+  ]
+}

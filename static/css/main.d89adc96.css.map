@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d89adc96.css","mappings":"AAAA,WACE,gBAAmB,CACnB,yGACF","sources":["assets/css/styles.css"],"sourcesContent":["@font-face {\r\n  font-family: \"Kids\"; /*Can be any text*/\r\n  src: local(\"LetterKidsDemo\"), url(\"../fonts/LetterKidsDemo.ttf\");\r\n}\r\n"],"names":[],"sourceRoot":""}
